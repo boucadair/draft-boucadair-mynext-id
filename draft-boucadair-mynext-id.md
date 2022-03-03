@@ -23,10 +23,10 @@ title: "TODO - Your title"
 abbrev: "TODO - Abbreviation"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-boucadair-mynext-id-latest
 v: 3
 area: AREA
-workgroup: WG Working Group
+workgroup: SFC
 keyword: Internet-Draft
 venue:
   group: WG
@@ -38,9 +38,9 @@ venue:
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+    fullname: Mohamed Boucadair
+    organization: Orange
+    email: mohamed.boucadair@orange.com
 
 normative:
 
